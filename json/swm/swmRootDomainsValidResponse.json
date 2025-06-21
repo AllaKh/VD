@@ -1,0 +1,115 @@
+{
+  "id": "swmRootDomainValid",
+  "totalCount": 4,
+  "representationObjects": [
+    {
+      "id": "40654322183738962997233014465845312829",
+      "actionResult": [],
+      "additionalAttributes": {
+        "map": []
+      },
+      "deprecationStatus": null,
+      "status": "Active",
+      "name": "SERVICE",
+      "businessKey": "SERVICE",
+      "pin": "310788",
+      "directChildrenDomains": null,
+      "allowedRoles": [
+        "role.mq.consumer.external",
+        "role.content.manager",
+        "role.user",
+        "role.approver",
+        "role.tester",
+        "role.viewer",
+        "role.admin"
+      ],
+      "type": "AUTOMOTIVE",
+      "links": {
+        "link": null
+      },
+      "serviceCampaigns": true
+    },
+    {
+      "id": "1",
+      "actionResult": [],
+      "additionalAttributes": {
+        "map": []
+      },
+      "deprecationStatus": null,
+      "status": "Active",
+      "name": "AGA",
+      "businessKey": "AGA",
+      "pin": "245163",
+      "directChildrenDomains": null,
+      "allowedRoles": [
+        "role.mq.consumer.external",
+        "role.content.manager",
+        "role.user",
+        "role.approver",
+        "role.tester",
+        "role.viewer",
+        "role.admin"
+      ],
+      "type": "AUTOMOTIVE",
+      "links": {
+        "link": null
+      },
+      "serviceCampaigns": true
+    },
+    {
+      "id": "2",
+      "actionResult": [],
+      "additionalAttributes": {
+        "map": []
+      },
+      "deprecationStatus": null,
+      "status": "Active",
+      "name": "ROOT1",
+      "businessKey": "ROOT1",
+      "pin": "500161",
+      "directChildrenDomains": null,
+      "allowedRoles": [
+        "role.content.manager",
+        "role.user",
+        "role.approver",
+        "role.tester",
+        "role.viewer",
+        "role.admin"
+      ],
+      "type": "AUTOMOTIVE",
+      "links": {
+        "link": null
+      },
+      "serviceCampaigns": true
+    },
+    {
+      "id": "3",
+      "actionResult": [],
+      "additionalAttributes": {
+        "map": []
+      },
+      "deprecationStatus": null,
+      "status": "Active",
+      "name": "ROOT2",
+      "businessKey": "ROOT2",
+      "pin": "189829",
+      "directChildrenDomains": null,
+      "allowedRoles": [
+        "role.mq.consumer.external",
+        "role.content.manager",
+        "role.user",
+        "role.approver",
+        "role.tester",
+        "role.viewer",
+        "role.admin"
+      ],
+      "type": "AUTOMOTIVE",
+      "links": {
+        "link": null
+      },
+      "serviceCampaigns": true
+    }
+  ],
+  "deprecationStatus": null,
+  "actionResult": null
+}
